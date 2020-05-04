@@ -5,6 +5,14 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
+### Input math equations
+
+`Mass–energy equivalence`
+
+$$E = mc^2$$
+
+Speed of light: $c = ~3×10^8 m/s$
+
 ### Create a new post
 
 ``` bash
